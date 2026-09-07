@@ -236,3 +236,6 @@ This repository serves as the official landing page for DivXLand Media Subtitler
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DivXLand Media Subtitler today!**
+
+---
+**Last updated:** 2026-09-07 18:35:25 UTC
