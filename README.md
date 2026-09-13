@@ -238,4 +238,4 @@ This repository serves as the official landing page for DivXLand Media Subtitler
 **Get the most recent version of DivXLand Media Subtitler today!**
 
 ---
-**Last updated:** 2026-09-13 03:07:40 UTC
+**Last updated:** 2026-09-13 08:55:22 UTC
